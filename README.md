@@ -1,5 +1,4 @@
-# VQA-Med
-Medical Question Answering
+### Medical Question Answering
 
 Since the release of the first VQA dataset in 2014, additional datasets have been released and many algorithms have been proposed. The dataset examined here is VQA-Med, based on images from the MedPix database with only the cases where the diagnosis was made based on the image.
 <br>
